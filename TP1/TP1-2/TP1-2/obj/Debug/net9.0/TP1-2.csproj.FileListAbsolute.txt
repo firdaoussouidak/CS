@@ -1,0 +1,14 @@
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\bin\Debug\net9.0\TP1-2.exe
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\bin\Debug\net9.0\TP1-2.deps.json
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\bin\Debug\net9.0\TP1-2.runtimeconfig.json
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\bin\Debug\net9.0\TP1-2.dll
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\bin\Debug\net9.0\TP1-2.pdb
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.AssemblyInfoInputs.cache
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.AssemblyInfo.cs
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.csproj.CoreCompileInputs.cache
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.dll
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\refint\TP1-2.dll
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.pdb
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\TP1-2.genruntimeconfig.cache
+D:\ENSA-4\S2\C#\TP1\TP1-2\TP1-2\obj\Debug\net9.0\ref\TP1-2.dll
