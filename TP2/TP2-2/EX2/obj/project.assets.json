@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ENSA-4\\S2\\C#\\TP2\\TP2-2\\EX2\\EX2.csproj",
+      "projectUniqueName": "D:\\ENSA-4\\S2\\C#\\TP\\TP2\\TP2-2\\EX2\\EX2.csproj",
       "projectName": "EX2",
-      "projectPath": "D:\\ENSA-4\\S2\\C#\\TP2\\TP2-2\\EX2\\EX2.csproj",
+      "projectPath": "D:\\ENSA-4\\S2\\C#\\TP\\TP2\\TP2-2\\EX2\\EX2.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\ENSA-4\\S2\\C#\\TP2\\TP2-2\\EX2\\obj\\",
+      "outputPath": "D:\\ENSA-4\\S2\\C#\\TP\\TP2\\TP2-2\\EX2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
